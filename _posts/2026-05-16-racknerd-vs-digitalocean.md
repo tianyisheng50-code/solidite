@@ -4,7 +4,10 @@ description: "RackNerd vs DigitalOcean comparison for developers choosing betwee
 date: 2026-05-16
 categories: [vps, cloud-hosting]
 tags: [VPS, Cloud Hosting, DigitalOcean, Developers, Web Hosting]
+image: "/assets/images/racknerd-vs-digitalocean.svg"
 ---
+
+![RackNerd vs DigitalOcean VPS comparison promotional banner]({{ "/assets/images/racknerd-vs-digitalocean.svg" | relative_url }})
 
 A practical comparison of RackNerd and DigitalOcean for developers, WordPress users, and small project builders.
 
