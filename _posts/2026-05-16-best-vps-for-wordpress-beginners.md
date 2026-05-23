@@ -4,10 +4,10 @@ description: "A beginner-friendly guide to choosing the best VPS for WordPress, 
 date: 2026-05-16
 categories: [wordpress, vps, web-hosting]
 tags: [WordPress, VPS, Web Hosting, Blogging, Linux]
-image: "/assets/images/racknerd-wordpress-beginners.svg"
+image: "/assets/images/racknerd-wordpress-beginners.png"
 ---
 
-![RackNerd VPS for WordPress beginners promotional banner]({{ "/assets/images/racknerd-wordpress-beginners.svg" | relative_url }})
+![RackNerd VPS for WordPress beginners promotional banner]({{ "/assets/images/racknerd-wordpress-beginners.png" | relative_url }})
 
 How beginners can choose a VPS for WordPress without overpaying or overcomplicating the setup.
 
