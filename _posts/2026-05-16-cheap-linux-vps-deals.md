@@ -4,10 +4,10 @@ description: "Learn how to evaluate cheap Linux VPS deals, compare resources, av
 date: 2026-05-16
 categories: [linux, vps, hosting]
 tags: [Linux, VPS, Hosting, Developers, Servers]
-image: "/assets/images/racknerd-linux-vps-deals.png"
+image: "/assets/images/racknerd-linux-vps-deals-wide.png"
 ---
 
-![RackNerd cheap Linux VPS deals promotional banner]({{ "/assets/images/racknerd-linux-vps-deals.png" | relative_url }})
+![RackNerd cheap Linux VPS deals promotional banner]({{ "/assets/images/racknerd-linux-vps-deals-wide.png" | relative_url }})
 
 A practical buyer's guide for finding affordable Linux VPS hosting that actually fits your project.
 

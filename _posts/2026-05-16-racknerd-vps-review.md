@@ -4,10 +4,10 @@ description: "Read this RackNerd VPS review for developers, WordPress beginners,
 date: 2026-05-16
 categories: [vps, web-hosting, linux]
 tags: [VPS, Web Hosting, Linux, Developers, WordPress]
-image: "/assets/images/racknerd-vps-review.png"
+image: "/assets/images/racknerd-vps-review-wide.png"
 ---
 
-![RackNerd VPS review promotional banner]({{ "/assets/images/racknerd-vps-review.png" | relative_url }})
+![RackNerd VPS review promotional banner]({{ "/assets/images/racknerd-vps-review-wide.png" | relative_url }})
 
 A developer-focused review of RackNerd VPS hosting, who it is best for, and how to decide whether it fits your next project.
 
